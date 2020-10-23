@@ -1,0 +1,2 @@
+# Whaddup
+My first repository
